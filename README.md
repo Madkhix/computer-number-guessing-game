@@ -1,17 +1,16 @@
 ## Unity de-Arayüzle Sayi Tahmin Oyunu
-Unity ile Pc'nin 1 ile 1500 arasında aklımızda tuttuğumuz  sayıyı  bulmasını içeren arayüzlü bir sayı tahmin oyunu...
+A distributed number guessing game with Unity that involves the PC finding the number we keep in mind between 1 and 1500.
 
-Not:Amatör bir Yazılımcıyım...
 
 # Edit: 
-"Oyunyoneticisi"  ismi değitişti 
+The name "Oyunyoneticisi" has been changed
 
-yeni ismi : "sahneyonetici" 
+new name: "sahneyonetici"
 
-Rasgale Tahim eklendi
+Random Tahim added
 
 
-# Oyunun Geçiştirme Süreci 
+# The Transition Process of the Game
 
 ![oyun](https://user-images.githubusercontent.com/41707639/55347266-0fac1a00-54bd-11e9-8e1f-331866ccef5c.PNG)
 ![kazan](https://user-images.githubusercontent.com/41707639/55347281-19ce1880-54bd-11e9-8d2e-c39afd7fc279.PNG)
@@ -39,7 +38,7 @@ Rasgale Tahim eklendi
 ![19](https://user-images.githubusercontent.com/41707639/55346849-1b4b1100-54bc-11e9-901d-db0e44d27f76.PNG)
 ![20](https://user-images.githubusercontent.com/41707639/55346850-1be3a780-54bc-11e9-82a2-4715cb1f50fe.PNG)
 
-# Eklemeler ve Değişiklikler:
+# Additions and Changes:
 
 ![Random range slayt](https://user-images.githubusercontent.com/41707639/55470626-a89f7a00-5610-11e9-9631-095d0fe53614.PNG)
 
